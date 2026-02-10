@@ -1,0 +1,15 @@
+{
+  "background_color": "#ffffff",
+  "dir": "auto",
+  "display": "fullscreen",
+  "name": "AdamakRunnerX",
+  "orientation": "any",
+  "scope": "https://armannagshbndi.github.io/AdamakRunnerX/",
+  "short_name": "AdamakRunnerX",
+  "start_url": "https://armannagshbndi.github.io/AdamakRunnerX/",
+  "theme_color": "#ffffff",
+  "lang": "en",
+  "categories": [
+    "games"
+  ]
+}
