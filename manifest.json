@@ -1,16 +1,18 @@
 {
   "name": "Adamak Runner X",
-  "short_name": "RunnerX",
+  "short_name": "AdamakRunnerX",
   "description": "A fast endless runner game",
   "lang": "en",
   "dir": "auto",
   "start_url": "https://armannagshbndi.github.io/AdamakRunnerX/",
   "scope": ".",
-  "display": "fullscreen",
+  "display": "minimal-ui",
   "orientation": "any",
-  "background_color": "#ffffff",
+  "background_color": "#196dff",
   "theme_color": "#ffffff",
-  "categories": ["games"],
+  "categories": [
+    "games"
+  ],
   "icons": [
     {
       "src": "logo2.png",
@@ -24,4 +26,3 @@
     }
   ]
 }
-    
